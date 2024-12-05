@@ -1,4 +1,5 @@
 ## Projeto: Receita de Bolo de Cenoura
+Acesse o site pelo link: https://joziane210506.github.io/Receita-Bolo-de-Cenoura/
 ## Objetivo do Projeto
 O objetivo deste projeto é criar um site simples e interativo para apresentar uma receita de bolo de caneca. O site utiliza HTML, CSS e JavaScript para exibir de forma dinâmica as instruções da receita, incluindo os ingredientes, o passo a passo e dicas extras, tudo de uma maneira clara e organizada. O projeto também busca ser responsivo, adaptando-se bem a diferentes dispositivos e proporcionando uma experiência agradável ao usuário.
 
